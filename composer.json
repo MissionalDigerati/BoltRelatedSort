@@ -1,6 +1,7 @@
 {
-  "name": "missionaldigerati/relatedsort",
+  "name": "missionaldigerati/boltrelatedsort",
   "description": "a small Twig extension built for the Bolt CMS to sort through the given relation.",
+  "version": "3.0.1",
   "type": "bolt-extension",
   "keywords": [
     "twig",
@@ -20,7 +21,7 @@
       "init.php"
     ],
     "psr-4" : {
-      "Bolt\\Extension\\MissionalDigerati\\RelatedSort\\" : ""
+      "Bolt\\Extension\\MissionalDigerati\\BoltRelatedSort\\" : ""
     }
   }
 }
