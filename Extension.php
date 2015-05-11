@@ -21,7 +21,7 @@
  * 
  */
 
-namespace Bolt\Extension\MDBoltExtension\RelatedSort;
+namespace Bolt\Extension\MissionalDigerati\RelatedSort;
 
 /**
  * Related Sort is an Extension for the Bolt CMS (@link http://bolt.cm)
