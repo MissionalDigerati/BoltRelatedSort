@@ -1,13 +1,13 @@
 <?php
 /**
- * This file is part of RelatedSort Bolt CMS Extension.
+ * This file is part of BoltRelatedSort Bolt CMS Extension.
  * 
- * RelatedSort Bolt CMS Extension is free software: you can redistribute it and/or modify
+ * BoltRelatedSort Bolt CMS Extension is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  * 
- * RelatedSort Bolt CMS Extension is distributed in the hope that it will be useful,
+ * BoltRelatedSort Bolt CMS Extension is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
@@ -21,7 +21,7 @@
  * 
  */
 
-namespace Bolt\Extension\MissionalDigerati\RelatedSort;
+namespace Bolt\Extension\MissionalDigerati\BoltRelatedSort;
 
 /**
  * Related Sort is an Extension for the Bolt CMS (@link http://bolt.cm)
