@@ -1,5 +1,5 @@
 <?php
 
-use Bolt\Extension\MissionalDigerati\RelatedSort\Extension;
+use Bolt\Extension\MissionalDigerati\BoltRelatedSort\Extension;
 
 $app['extensions']->register(new Extension($app));
