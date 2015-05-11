@@ -8,9 +8,6 @@
     "sorting"
   ],
   "license": "GPL-3.0+",
-  "require": {
-    "bolt/bolt": "2.1.*"
-  },
   "authors": [
     {
       "name": "Johnathan Pulos",
