@@ -1,14 +1,15 @@
 {
   "name": "missionaldigerati/relatedsort",
   "description": "a small Twig extension built for the Bolt CMS to sort through the given relation.",
-  "type": "bolt-extension","keywords": [
+  "type": "bolt-extension",
+  "keywords": [
     "twig",
     "related",
     "sorting"
   ],
   "license": "GPL-3.0+",
   "require": {
-    "bolt/bolt": ">=2.1.8,<3.0"
+    "bolt/bolt": "2.1.*"
   },
   "authors": [
     {
