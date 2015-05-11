@@ -1,4 +1,28 @@
 {
-    "name": "MissionalDigerati/RelatedSort",
-    "license": "GPL-3.0+"
+  "name": "missionaldigerati/relatedsort",
+  "description": "a small Twig extension built for the Bolt CMS to sort through the given relation.",
+  "type": "bolt-extension","keywords": [
+    "twig",
+    "related",
+    "sorting"
+  ],
+  "license": "GPL-3.0+",
+  "require": {
+    "bolt/bolt": ">=2.0.0,<3.0.0"
+  },
+  "authors": [
+    {
+      "name": "Johnathan Pulos",
+      "email": "johnathan@missionaldigerati.org",
+      "homepage": "http://missionaldigerati.org"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "init.php"
+    ],
+    "psr-4" : {
+      "Bolt\\Extension\\MissionalDigerati\\RelatedSort\\" : ""
+    }
+  }
 }
