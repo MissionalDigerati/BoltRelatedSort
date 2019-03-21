@@ -1,6 +1,10 @@
 Bolt Related Sort
 =================
 
+**DEPRECATED:**
+
+This code has been moved into our [Bolt Utility Box](https://github.com/MissionalDigerati/BoltUtilityBox).  *This repo is no longer maintained.*
+
 "Bolt Related Sort" is a small [Twig](http://twig.sensiolabs.org) extension built for the [Bolt CMS](http://bolt.cm) to sort through the given relation.
 
 `{{ related_sort(page.related(), 'title', 'asc') }}`
